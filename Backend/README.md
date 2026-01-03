@@ -12,7 +12,10 @@ Pipe Light is a powerful, agentic AI assistant designed specifically for DevOps 
 *   **Pluggable LLM Backend**: Supports **Groq** (Llama 3.3 70B) for high-speed inference, with fallback support for Google Gemini.
 *   **Real-time Streaming**: WebSocket-based chat interface that streams agent events and thoughts in real-time.
 
-![Analytics Dashboard](assets/analytics_dashboard.png)
+![Analytics Dashboard](docimages/analytics_dashboard.png)
+![Analytics Dashboard](docimages/analytics_dashboard1.png)
+![Analytics Dashboard](docimages/analytics_dashboard2.png)
+![Analytics Dashboard](docimages/analytics_dashboard3.png)
 
 
 ## 🤖 The Agents
@@ -26,7 +29,7 @@ Pipe Light uses a team of specialized agents orchestrated by a LangGraph workflo
 5.  **Search Agent (MCP)**: Uses the Google MCP tool to perform live web searches when internal documentation is insufficient or when recent information is needed.
 6.  **Synthesizer Agent**: The final answering engine. It combines context from the Retriever, results from the Search Agent, and its own knowledge to generate a comprehensive, cited response.
 
-![Chat Interface](assets/chat_interface.png)
+![Chat Interface](docimages/chat_interface.png)
 
 
 

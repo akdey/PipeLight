@@ -13,6 +13,9 @@ Pipe Light is a powerful, agentic AI assistant designed specifically for DevOps 
 *   **Real-time Streaming**: WebSocket-based chat interface that streams agent events and thoughts in real-time.
 
 ![Analytics Dashboard](docimages/analytics_dashboard.png)
+![Analytics Dashboard](docimages/analytics_dashboard1.png)
+![Analytics Dashboard](docimages/analytics_dashboard2.png)
+![Analytics Dashboard](docimages/analytics_dashboard3.png)
 
 
 ## 🤖 The Agents
